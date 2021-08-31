@@ -13,7 +13,7 @@ type Tabs = 'tab-favoritos' | 'tab-pokemons';
 @Component({
   selector: 'pokemon-layout',
   templateUrl: './layout.component.html',
-  styleUrls: ['./layout.component.css']
+  styleUrls: []
 })
 export class LayoutComponent {
 
